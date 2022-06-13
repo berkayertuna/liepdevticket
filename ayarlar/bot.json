@@ -1,0 +1,45 @@
+{
+    "prefix": ".",
+	"token": "OTg1NTM2MzAwNDgyNDI4OTM4.Gl0mr9.-9SFgvu8Lg_2zOpWKgP34TwXf45z-JhXd-ujK0",
+    "isim": "Sunucu ismi",
+    "logchannel": "981261563019296810",
+    "gif": "",
+    "radyokanal": "",
+  
+    "adminrol": "982011971614421017",   
+    "kurucu":"319827233042857985",
+    "basvurkategori":"982011973329895439",
+    "onayred":"984577774343823400",
+    "yetkililog":"984577673600847913",
+    "everyoneid":"982011971513745468",
+    "yetkilirolid":"982011971614421017",
+    "sunucuid":"982011971513745468",
+  
+    "kayıtuye":"813148790222749766",
+    "kayıtkayıtsız":"871365029381931068",
+    "kayıtresim":"https://i.hizliresim.com/jc5koek.png",
+    "kayıtembedrenk":"BLUE",
+    "kayıtmesaj":"Kayıt olan herkes kuralları okumuş sayılacaktır.",
+  
+    "serverip": "193.164.4.48",
+    "serverport": "25565",
+    "serverembedrenk": "BLUE",
+  
+    "yardımembedrenk": "BLUE",
+    "yardımmesaj": "Aşağıdaki Katagorilerden Seçebilirsiniz.",
+  
+    "aktifbakımipembedrenk": "BLUE",
+  
+    "basvurusoru1": "**İsmini Ve Yaşını Öğrenebilirmiyim?**",
+    "basvurusoru2": "**Günde Kaç Saat Aktifsiniz?**",
+    "basvurusoru3": "**Başka Sunucuda Yetkili Oldunuz Mu?**",
+    "basvurusoru4": "**MTA Platformunda Kaç Senedir Bulunuyorsunuz?**",
+    "basvurusoru5": "**Oyun İçi isminiz:**",
+    "basvurusoru6": "**Neden Liep Jailbreak?**",
+    "basvuruembedrenk": "BLUE",
+  
+    "ticketembedrenk": "BLUE",
+  
+    "puansistemiembedrenk": "BLUE"
+      
+}
